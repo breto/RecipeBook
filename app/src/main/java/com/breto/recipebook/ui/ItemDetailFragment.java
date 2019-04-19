@@ -1,4 +1,4 @@
-package com.breto.recipebook;
+package com.breto.recipebook.ui;
 
 import android.app.Activity;
 import android.support.design.widget.CollapsingToolbarLayout;
@@ -9,6 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import com.breto.recipebook.R;
 import com.breto.recipebook.dummy.DummyContent;
 
 /**
